@@ -10,9 +10,9 @@
 
 # `> whoami`
 
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00d9ff&style=for-the-badge&label=VISITORS)](https://github.com/YOUR_USERNAME)
+[![Profile Views](https://komarev.com/ghpvc/?username=mirajulislamshanto&color=00d9ff&style=for-the-badge&label=VISITORS)](https://github.com/mirajulislamshanto)
 &nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=00d9ff&logo=github)](https://github.com/YOUR_USERNAME?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/mirajulislamshanto?style=for-the-badge&color=00d9ff&logo=github)](https://github.com/mirajulislamshanto?tab=followers)
 
 </div>
 
@@ -23,7 +23,7 @@
 ```python
 class Developer:
     def __init__(self):
-        self.name        = "YOUR NAME"
+        self.name        = "Md. Mirajul Islam Shanto"
         self.role        = ["Competitive Programmer", "AI/ML Enthusiast", "Web Developer"]
         self.languages   = ["Python", "C", "C++"]
         self.focus       = ["Algorithms", "DSA", "Machine Learning", "Robotics", "Web Dev"]
@@ -80,10 +80,10 @@ print(me.current_mission())
 
 | Platform | Handle | Status |
 |----------|--------|--------|
-| 🟡 Codeforces | [YOUR_HANDLE](https://codeforces.com/profile/YOUR_HANDLE) | `Active` |
-| 🔵 LeetCode | [YOUR_HANDLE](https://leetcode.com/YOUR_HANDLE) | `Active` |
-| 🟢 CodeChef | [YOUR_HANDLE](https://www.codechef.com/users/YOUR_HANDLE) | `Active` |
-| 🔴 AtCoder | [YOUR_HANDLE](https://atcoder.jp/users/YOUR_HANDLE) | `Active` |
+| 🟡 Codeforces | [YOUR_CF_HANDLE](https://codeforces.com/profile/YOUR_CF_HANDLE) | `Active` |
+| 🔵 LeetCode | [YOUR_LC_HANDLE](https://leetcode.com/YOUR_LC_HANDLE) | `Active` |
+| 🟢 CodeChef | [YOUR_CC_HANDLE](https://www.codechef.com/users/YOUR_CC_HANDLE) | `Active` |
+| 🔴 AtCoder | [YOUR_AC_HANDLE](https://atcoder.jp/users/YOUR_AC_HANDLE) | `Active` |
 
 </div>
 
@@ -93,13 +93,13 @@ print(me.current_mission())
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)](https://github.com/YOUR_USERNAME)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mirajulislamshanto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)](https://github.com/mirajulislamshanto)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)](https://github.com/YOUR_USERNAME)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mirajulislamshanto&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)](https://github.com/mirajulislamshanto)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF)](https://github.com/YOUR_USERNAME)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mirajulislamshanto&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF)](https://github.com/mirajulislamshanto)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&hide_border=true)](https://github.com/YOUR_USERNAME)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mirajulislamshanto&theme=tokyo-night&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&hide_border=true)](https://github.com/mirajulislamshanto)
 
 </div>
 
@@ -121,8 +121,8 @@ print(me.current_mission())
 
 <div align="center">
 
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)](https://github.com/YOUR_USERNAME/YOUR_REPO_1)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)](https://github.com/YOUR_USERNAME/YOUR_REPO_2)
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=mirajulislamshanto&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)](https://github.com/mirajulislamshanto/YOUR_REPO_1)
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=mirajulislamshanto&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)](https://github.com/mirajulislamshanto/YOUR_REPO_2)
 
 </div>
 
@@ -147,7 +147,7 @@ PID   PROCESS                     CPU%   MEMORY    STATUS
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-mirajul-islam-shanto-778159381)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/YOUR_HANDLE)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/YOUR_CF_HANDLE)
 
 </div>
 
