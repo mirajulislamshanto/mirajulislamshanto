@@ -80,10 +80,10 @@ print(me.current_mission())
 
 | Platform | Handle | Status |
 |----------|--------|--------|
-| 🟡 Codeforces | [YOUR_CF_HANDLE](https://codeforces.com/profile/YOUR_CF_HANDLE) | `Active` |
-| 🔵 LeetCode | [YOUR_LC_HANDLE](https://leetcode.com/YOUR_LC_HANDLE) | `Active` |
-| 🟢 CodeChef | [YOUR_CC_HANDLE](https://www.codechef.com/users/YOUR_CC_HANDLE) | `Active` |
-| 🔴 AtCoder | [YOUR_AC_HANDLE](https://atcoder.jp/users/YOUR_AC_HANDLE) | `Active` |
+| 🟡 Codeforces | [YOUR_CF_HANDLE](https://codeforces.com/profile/mirajul_islam_shanto) | `Active` |
+| 🔵 LeetCode | [YOUR_LC_HANDLE](https://leetcode.com/u/mirajul_islam) | `Active` |
+| 🟢 CodeChef | [YOUR_CC_HANDLE](https://www.codechef.com/users/mirajul_islam) | `Active` |
+| 🔴 AtCoder | [YOUR_AC_HANDLE](https://atcoder.jp/users/Bug_generator_) | `Active` |
 
 </div>
 
@@ -146,8 +146,8 @@ PID   PROCESS                     CPU%   MEMORY    STATUS
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-mirajul-islam-shanto-778159381)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/YOUR_CF_HANDLE)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdmirajulislamshanto7@gmail.com)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/mirajul_islam_shanto)
 
 </div>
 
