@@ -80,10 +80,10 @@ print(me.current_mission())
 
 | Platform | Handle | Status |
 |----------|--------|--------|
-| 🟡 Codeforces | [YOUR_CF_HANDLE](https://codeforces.com/profile/mirajul_islam_shanto) | `Active` |
-| 🔵 LeetCode | [YOUR_LC_HANDLE](https://leetcode.com/u/mirajul_islam) | `Active` |
-| 🟢 CodeChef | [YOUR_CC_HANDLE](https://www.codechef.com/users/mirajul_islam) | `Active` |
-| 🔴 AtCoder | [YOUR_AC_HANDLE](https://atcoder.jp/users/Bug_generator_) | `Active` |
+| 🟡 Codeforces | [mirajul_islam_shanto](https://codeforces.com/profile/mirajul_islam_shanto) | `Active` |
+| 🔵 LeetCode | [mirajul_islam](https://leetcode.com/u/mirajul_islam) | `Active` |
+| 🟢 CodeChef | [mirajul_islam](https://www.codechef.com/users/mirajul_islam) | `Active` |
+| 🔴 AtCoder | [Bug_generator_](https://atcoder.jp/users/Bug_generator_) | `Active` |
 
 </div>
 
