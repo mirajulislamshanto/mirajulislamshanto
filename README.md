@@ -8,7 +8,7 @@
 ╚═══════════════════════════════════════════════════════════════╝
 ```
 
-# `> whoami`
+# `> model.predict(me)`
 
 [![Profile Views](https://komarev.com/ghpvc/?username=mirajulislamshanto&color=00d9ff&style=for-the-badge&label=VISITORS)](https://github.com/mirajulislamshanto)
 &nbsp;
